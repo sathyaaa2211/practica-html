@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Presentación</title>
+</head>
+<body>
+
+    <h1>Presentación Personal</h1>
+    <p>¡Hola! Este es mi primer programa en HTML. Estoy aprendiendo a estructurar páginas web y a conectar archivos mediante enlaces.</p>
+
+    <hr>
+    <p><a href="../index.html">Volver a la página principal (index.html)</a></p>
+
+</body>
+</html>
