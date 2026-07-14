@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Amigos</title>
+</head>
+<body>
+
+    <h1>Mi Lista de Amigos</h1>
+
+    <table border="1" cellpadding="8" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Pasatiempo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Juan</td>
+                <td>Pérez</td>
+                <td>Tocar la guitarra</td>
+            </tr>
+            <tr>
+                <td>Sofía</td>
+                <td>Gómez</td>
+                <td>Programar circuitos</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+    <p><a href="../index.html">Volver a la página principal (index.html)</a></p>
+
+</body>
+</html>
