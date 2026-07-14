@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bandas Favoritas</title>
+</head>
+<body>
+
+    <h1>Mis Bandas y Artistas Favoritos</h1>
+
+    <h2>Géneros que me gustan:</h2>
+    <ul>
+        <li>Pop clásico</li>
+        <li>Rock</li>
+        <li>Electrónica</li>
+    </ul>
+
+    <h2>Mi Top 3 de Artistas:</h2>
+    <ol>
+        <li>Michael Jackson</li>
+        <li>Daft Punk</li>
+        <li>Depeche Mode</li>
+    </ol>
+
+    <hr>
+    <p><a href="../index.html">Volver a la página principal (index.html)</a></p>
+
+</body>
+</html>
