@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inicio - Mi Práctica</title>
+</head>
+<body>
+
+    <h1>Práctica de HTML: Página Principal</h1>
+    <p>Utiliza los siguientes enlaces para navegar por las secciones del proyecto:</p>
+
+    <hr>
+
+    <ul>
+        <li><a href="paginas/Presentacion.html">Ir a Presentación</a></li>
+        <li><a href="paginas/ListaDeAmigos.html">Ir a Lista de Amigos</a></li>
+        <li><a href="paginas/Bandas.html">Ir a Bandas Favoritas</a></li>
+    </ul>
+
+</body>
+</html>
